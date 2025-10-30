@@ -1,5 +1,11 @@
 # Synora SDK
 
+[![npm version](https://badge.fury.io/js/@synora%2Fsdk.svg)](https://www.npmjs.com/package/@synora/sdk)
+[![PyPI version](https://badge.fury.io/py/synora-sdk.svg)](https://pypi.org/project/synora-sdk/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/pypi/pyversions/synora-sdk.svg)](https://pypi.org/project/synora-sdk/)
+[![npm downloads](https://img.shields.io/npm/dm/@synora/sdk.svg)](https://www.npmjs.com/package/@synora/sdk)
+
 🚀 Official SDKs for Synora X402 Payment Gateway
 
 ## Overview
